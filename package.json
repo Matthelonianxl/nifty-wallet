@@ -83,7 +83,7 @@
   "dependencies": {
     "@material-ui/core": "1.0.0",
     "@zxing/library": "^0.8.0",
-    "abi-decoder": "^1.0.9",
+    "abi-decoder": "^1.2.0",
     "asmcrypto.js": "0.22.0",
     "async": "^2.5.0",
     "await-semaphore": "^0.1.1",
@@ -156,7 +156,7 @@
     "loglevel": "^1.4.1",
     "metamascara": "^2.0.0",
     "metamask-inpage-provider": "^1.2.2",
-    "mkdirp": "^0.5.1",
+    "mkdirp": "^1.0.0",
     "multihashes": "^0.4.12",
     "number-to-bn": "^1.7.0",
     "obj-multiplex": "^1.0.0",
